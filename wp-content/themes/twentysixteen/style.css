@@ -100,7 +100,7 @@ audio:not([controls]) {
 template {
 	display: none;
 }
-
+body{background:red;}
 a {
 	background-color: transparent;
 }
