@@ -1,3 +1,4 @@
+body{background:red;}
 /*
 Theme Name: Twenty Sixteen
 Theme URI: https://wordpress.org/themes/twentysixteen/
@@ -100,7 +101,7 @@ audio:not([controls]) {
 template {
 	display: none;
 }
-body{background:red;}
+
 a {
 	background-color: transparent;
 }
